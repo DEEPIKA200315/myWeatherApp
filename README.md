@@ -32,8 +32,6 @@ Simply open the `index.html` file in your browser.
 - Sign up on [OpenWeatherMap](https://openweathermap.org/) to get an API key.
 - Replace `YOUR_API_KEY` in your JavaScript file with your actual API key.
 
-## 📸 Screenshot
-![Weather App Screenshot](screenshot.png)
 
 ## 🤝 Contributing
 Feel free to contribute by submitting issues or pull requests.
